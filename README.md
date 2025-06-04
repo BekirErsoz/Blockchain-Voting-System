@@ -1,2 +1,8 @@
-# Blockchain-Voting-System
-A secure and transparent voting system using Ethereum smart contracts and distributed blockchain technology.
+# 🗳️ Blockchain Voting System
+
+Güvenli, şeffaf ve merkeziyetsiz bir oylama deneyimi sunmak için geliştirilmiş tam yığın bir blockchain oylama sistemi. Ethereum tabanlı akıllı kontratlar, özelleştirilmiş bir blockchain node ve kullanıcı dostu arayüz ile desteklenmiştir.
+
+...
+
+> Geliştirici: Bekir Ersöz  
+> Geliştirici ekibiyle iletişime geçmek için: [LinkedIn](https://www.linkedin.com/in/bekirersoz/)
