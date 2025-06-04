@@ -5,4 +5,4 @@ Güvenli, şeffaf ve merkeziyetsiz bir oylama deneyimi sunmak için geliştirilm
 ...
 
 > Geliştirici: Bekir Ersöz  
-> Geliştirici ekibiyle iletişime geçmek için: https://www.linkedin.com/in/bekirersoz/
+> Geliştirici ekibiyle iletişime geçmek için: https://www.linkedin.com/in/bekir-ersoz/
